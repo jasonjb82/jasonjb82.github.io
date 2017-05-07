@@ -197,7 +197,7 @@ ul#nav li.current a { color: #11abb0; }
 #about a:hover, #about a:focus { color: #11ABB0; }
 
 #about h2 {
-   font: 14px/20px 'opensans-bold', sans-serif;
+   font: 10px/16px 'opensans-bold', sans-serif;
    color: #fff;
    margin-bottom: 12px;
 }
