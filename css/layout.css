@@ -255,13 +255,14 @@ ul#nav li.current a { color: #c016b8; }
    padding-bottom: 6px;
 }
 #resume h3 {
-   font: 12px/20px 'opensans-bold', sans-serif;
+   font: 14px/24px 'opensans-bold', sans-serif;
 }
 
 #resume .header-col { padding-top: 5px; }
 #resume .main-col { padding-right: 10%; }
 
 .education, .work {
+   font: 10px/18px 'opensans-regular', sans-serif;
    margin-bottom: 15px;
    padding-bottom: 10px;
    border-bottom: 1px solid #E8E8E8;
