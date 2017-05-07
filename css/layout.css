@@ -246,7 +246,7 @@ ul#nav li.current a { color: #c016b8; }
 #resume a:hover, #resume a:focus { color: #313131; }
 
 #resume h1 {
-   font: 10px/20px 'opensans-bold', sans-serif;
+   font: 14px/24px 'opensans-bold', sans-serif;
    text-transform: uppercase;
    letter-spacing: 1px;
 }
@@ -255,7 +255,7 @@ ul#nav li.current a { color: #c016b8; }
    padding-bottom: 6px;
 }
 #resume h3 {
-   font: 14px/24px 'opensans-bold', sans-serif;
+   font: 12px/20px 'opensans-bold', sans-serif;
 }
 
 #resume .header-col { padding-top: 5px; }
