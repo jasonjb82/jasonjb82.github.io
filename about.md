@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>I am a geospatial professional and aspiring data scientist with close to 13 years of experience.
+<p>I am a geospatial professional and aspiring data visualization expert with 14 over years of experience.
 My greatest interest and strength is in using geospatial, business intelligence and data analytical
 tools to understand better and solve spatial and non-spatially related real world problems and to
 subsequently present this using high-quality mapping or data visualization outputs.</p>
