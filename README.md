@@ -1,1 +1,1 @@
-This is my persona github page
+This is my personal github page
