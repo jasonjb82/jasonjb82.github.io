@@ -326,83 +326,83 @@ ul#nav li.current a { color: #c016b8; }
    border-radius: 3px 0 0 3px;
 }
 
-.arcgis {
+.skill1 {
   	width: 90%;
-  	-moz-animation: arcgis 2s ease;
-  	-webkit-animation: arcgis 2s ease;
+  	-moz-animation: skill1 2s ease;
+  	-webkit-animation: skill1 2s ease;
 }
-.qgis {
+.skill2 {
   	width: 90%;
-  	-moz-animation: qgis 2s ease;
-  	-webkit-animation: qgis 2s ease;
+  	-moz-animation: skill2 2s ease;
+  	-webkit-animation: skill2 2s ease;
 }
-.r {
+.skill3 {
   	width: 70%;
-  	-moz-animation: r 2s ease;
-  	-webkit-animation: r 2s ease;
+  	-moz-animation: skill3 2s ease;
+  	-webkit-animation: skill3 2s ease;
 }
-.qlik_powerbi {
+.skill4 {
   	width: 65;
-  	-moz-animation: qlik_powerbi 2s ease;
-  	-webkit-animation: qlik_powerbi 2s ease;
+  	-moz-animation: skill4 2s ease;
+  	-webkit-animation: skill4 2s ease;
 }
-.idrisi {
+.skill5 {
   	width: 60%;
-  	-moz-animation: idrisi 2s ease;
-  	-webkit-animation: idrisi 2s ease;
+  	-moz-animation: skill5 2s ease;
+  	-webkit-animation: skill5 2s ease;
 }
-.inkscape {
+.skill6 {
   	width: 70%;
-  	-moz-animation: inkscape 2s ease;
-  	-webkit-animation: inkscape 2s ease;
+  	-moz-animation: skill6 2s ease;
+  	-webkit-animation: skill6 2s ease;
 }
 
-@-moz-keyframes arcgis {
+@-moz-keyframes skill1 {
   0%   { width: 0px;  }
   100% { width: 60%;  }
 }
-@-moz-keyframes qgis {
+@-moz-keyframes skill2 {
   0%   { width: 0px;  }
   100% { width: 55%;  }
 }
-@-moz-keyframes r {
+@-moz-keyframes skill3 {
   0%   { width: 0px;  }
   100% { width: 50%;  }
 }
-@-moz-keyframes qlik_powerbi {
+@-moz-keyframes skill4 {
   0%   { width: 0px;  }
   100% { width: 90%;  }
 }
-@-moz-keyframes idrisi {
+@-moz-keyframes skill5 {
   0%   { width: 0px;  }
   100% { width: 80%;  }
 }
-@-moz-keyframes inkscape {
+@-moz-keyframes skill6 {
   0%   { width: 0px;  }
   100% { width: 50%;  }
 }
 
-@-webkit-keyframes arcgis {
+@-webkit-keyframes skill1 {
   0%   { width: 0px;  }
   100% { width: 60%;  }
 }
-@-webkit-keyframes qgis {
+@-webkit-keyframes skill2 {
   0%   { width: 0px;  }
   100% { width: 55%;  }
 }
-@-webkit-keyframes r {
+@-webkit-keyframes skill3 {
   0%   { width: 0px;  }
   100% { width: 50%;  }
 }
-@-webkit-keyframes qlik_powerbi {
+@-webkit-keyframes skill4 {
   0%   { width: 0px;  }
   100% { width: 90%;  }
 }
-@-webkit-keyframes idrisi {
+@-webkit-keyframes skill5 {
   0%   { width: 0px;  }
   100% { width: 80%;  }
 }
-@-webkit-keyframes inkscape {
+@-webkit-keyframes skill6 {
   0%   { width: 0px;  }
   100% { width: 50%;  }
 }
