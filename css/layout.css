@@ -326,58 +326,58 @@ ul#nav li.current a { color: #c016b8; }
    border-radius: 3px 0 0 3px;
 }
 
-.photoshop {
+.arcgis {
   	width: 90%;
-  	-moz-animation: photoshop 2s ease;
-  	-webkit-animation: photoshop 2s ease;
+  	-moz-animation: arcgis 2s ease;
+  	-webkit-animation: arcgis 2s ease;
 }
-.illustrator {
+.qgis {
   	width: 90%;
-  	-moz-animation: illustrator 2s ease;
-  	-webkit-animation: illustrator 2s ease;
+  	-moz-animation: qgis 2s ease;
+  	-webkit-animation: qgis 2s ease;
 }
-.wordpress {
-  	width: 50%;
-  	-moz-animation: wordpress 2s ease;
-  	-webkit-animation: wordpress 2s ease;
+.r {
+  	width: 70%;
+  	-moz-animation: r 2s ease;
+  	-webkit-animation: r 2s ease;
 }
-.css {
-  	width: 90%;
-  	-moz-animation: css 2s ease;
-  	-webkit-animation: css 2s ease;
+.qlik_powerbi {
+  	width: 65;
+  	-moz-animation: qlik_powerbi 2s ease;
+  	-webkit-animation: qlik_powerbi 2s ease;
 }
-.html5 {
-  	width: 80%;
-  	-moz-animation: html5 2s ease;
-  	-webkit-animation: html5 2s ease;
+.idrisi {
+  	width: 60%;
+  	-moz-animation: idrisi 2s ease;
+  	-webkit-animation: idrisi 2s ease;
 }
-.jquery {
-  	width: 50%;
-  	-moz-animation: jquery 2s ease;
-  	-webkit-animation: jquery 2s ease;
+.inkscape {
+  	width: 70%;
+  	-moz-animation: inkscape 2s ease;
+  	-webkit-animation: inkscape 2s ease;
 }
 
-@-moz-keyframes photoshop {
+@-moz-keyframes arcgis {
   0%   { width: 0px;  }
   100% { width: 60%;  }
 }
-@-moz-keyframes illustrator {
+@-moz-keyframes qgis {
   0%   { width: 0px;  }
   100% { width: 55%;  }
 }
-@-moz-keyframes wordpress {
+@-moz-keyframes r {
   0%   { width: 0px;  }
   100% { width: 50%;  }
 }
-@-moz-keyframes css {
+@-moz-keyframes qlik_powerbi {
   0%   { width: 0px;  }
   100% { width: 90%;  }
 }
-@-moz-keyframes html5 {
+@-moz-keyframes idrisi {
   0%   { width: 0px;  }
   100% { width: 80%;  }
 }
-@-moz-keyframes jquery {
+@-moz-keyframes inkscape {
   0%   { width: 0px;  }
   100% { width: 50%;  }
 }
