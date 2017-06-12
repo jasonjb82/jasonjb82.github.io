@@ -34,22 +34,22 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
-# google: mygoogle
+facebook: jasonjb82
+twitter: jasonjb82
+google: jasonjb82
 # instagram: myinstagram
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: jasonjb82
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: jasonjb82
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+#medium: medium
 # vimeo: myvimeo
-email: myemail@gmail.com
+email: jasonjb82@gmail.com
 
 authors:
     johndoe:
