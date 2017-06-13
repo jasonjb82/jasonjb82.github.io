@@ -21,7 +21,7 @@ Recently, I have started using R to produce visualizations using publicly availa
 the use of open source tools and open datasets, particularly in Malaysia where the availablity of open data is still very scarce.
 
 <p>I am currently helping the organization I am part off to better manage, analyse and visualize data that
-will hopefully lead to improved sustainable practises in businesses. I also volunteer with a local conservation
+will hopefully lead to improved sustainable practices in businesses. I also volunteer with a local conservation
 NGO with my GIS skills to help lobby for the protection of forests and wildlife habitats that are
 increasingly becoming vulnerable due to infrastructure development and cash crop expansion.</p> 
 
