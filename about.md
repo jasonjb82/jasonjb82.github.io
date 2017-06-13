@@ -21,7 +21,7 @@ with my newfound passion for working with data and technology.</p>
 <p>After spending 5 years in Malaysia and building up my geospatial skills, I moved to Adelaide, South Australia
 to continue to develop my skills and competencies working on a wide range of multi-disciplinary projects.</p>
 
-<p>In mid-2013, I moved back to <b>Malaysia</b> was based at a research organization that helped my develop my
+<p>In mid-2013, I moved back to Malaysia was based at a research organization that helped my develop my
 non-spatial data analytical and visualization skills using R. I have since been very actively developing
 my skills in R by utilizing it as much as possible in my various roles. I also work on various personal projects
 using R to produce visualizations using open and publicly available datasets.
