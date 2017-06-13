@@ -15,8 +15,8 @@ with sparse vegetation, honeycombed with caves rising out of plains with patches
 I grew to love nature and the outdoors.</p>
 
 <p>I decided to further my studies in Remote Sensing, which is a very data rich field and thoroughly enjoyed
-working with a wide range of datasets. This is where I got to combine my passion for the environment and also
-my love for computers and technology.</p>
+working with a wide range of datasets. This is where I got to combine my love for the environment and a
+with my newfound passion for working with data and technology.</p>
 
 <p>After spending 5 years in Malaysia and building up my geospatial skills, I moved to Adelaide, South Australia
 to continue to develop my skills and competencies working on a wide range of multi-disciplinary projects.</p>
