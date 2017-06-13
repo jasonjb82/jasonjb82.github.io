@@ -8,7 +8,8 @@ layout: page
 exist in it. I strive to help to help individuals, organizations and communities by analysing data and
 producing visualizations that would help them gain better insights and make better decisions.</p>
 
-<p>I grew up in Ipoh, a former tin mining town in nothern Peninsular Malaysia. It is one of those towns
+<p>I grew up in <a href="https://en.wikipedia.org/wiki/Ipoh/">Ipoh</a>,
+a former tin mining town in nothern Peninsular Malaysia. It is one of those towns
 with a small-city feel with big city values. Constantly enchanted with majestic abrupt limestone hills clad
 with sparse vegetation, honeycombed with caves rising out of plains with patches of calm but deep waterbodies,
 I grew to love nature and the outdoors.</p>
@@ -50,7 +51,8 @@ increasingly becoming vulnerable due to infrastructure development and cash crop
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="http://jason-doug-climate.blogspot.com/">The Jason and Doug Blog</a></li> - A blog I ran with Doug Beare to share insights and developments on open source software that can be used to analyze patterns and trends in in all types of data from the natural world</li>
+	<li><a href="http://jason-doug-climate.blogspot.com/">The Jason and Doug Blog</a></li>A blog I ran with Doug Beare to share insights and developments on open source software that can be used to analyze patterns and trends in in all types of data from the natural world</li>
+	
 	<li><a href="https://github.com/">Ipsum Dolor</a></li>
 	<li><a href="https://github.com/">Dolor Lorem</a></li>
 </ul>
