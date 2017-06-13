@@ -9,22 +9,16 @@ exist in it. I strive to help individuals, organizations and communities by anal
 producing visualizations that would help them gain better insights and make better decisions.</p>
 
 <p>I grew up in <a href="https://en.wikipedia.org/wiki/Ipoh/">Ipoh</a>,
-a former tin mining town in northern Peninsular Malaysia. It is one of those towns
-with a small-city feel with big city values. Constantly enchanted with majestic abrupt limestone hills clad
-with sparse vegetation, honeycombed with caves rising out of plains with patches of calm but deep waterbodies,
+a former tin mining town in northern Peninsular Malaysia. Constantly enchanted with majestic abrupt limestone
+hills clad with sparse vegetation, honeycombed with caves rising out of plains with patches of calm but deep waterbodies,
 I grew to love nature and the outdoors.</p>
 
-<p>I decided to further my studies in Remote Sensing, which is a very data rich field and thoroughly enjoyed
-working with a wide range of datasets. This is where I got to combine my love for the environment and a
-with my newfound passion for working with data and technology.</p>
+<p>My background is in Remote Sensing and I have spent the last 14 years working in various technical and coordinating roles
+in the geospatial field in service providers, consultancies and NGO's.</p>
 
-<p>After spending 5 years in Malaysia and building up my geospatial skills, I moved to Adelaide, South Australia
-to continue to develop my skills and competencies working on a wide range of multi-disciplinary projects.</p>
-
-<p>In mid-2013, I moved back to Malaysia was based at a research organization that helped my develop my
-non-spatial data analytical and visualization skills using R. I have since been very actively developing
-my skills in R by utilizing it as much as possible in my various roles. I also work on various personal projects
-using R to produce visualizations using open and publicly available datasets.
+In the last 4 years, I have increasingly used the R language for both spatial and non-spatial analytical and visualization.
+Recently, I have started using R to produce visualizations using ublicly available datasets in an attempt to promote
+the use of open source tools and open datasets, particulary in Malaysia where the available of open data is still very scarce.
 
 <p>I am currently helping the organization I am part off to better manage, analyse and visualize data that
 will hopefully lead to improved sustainable practises in businesses. I also volunteer with a local conservation
