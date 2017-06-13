@@ -6,7 +6,7 @@ layout: page
 
 <p>I love working with data, both spatial and non-spatial and being able to see the various nuances that
 exist in it. I strive to help to help individuals, organizations and communities by analysing data and
-producing visualizations that would help them gain better insights and help them make better decisions.</p>
+producing visualizations that would help them gain better insights and better decisions.</p>
 
 <p>I grew up in Ipoh, a small former tin mining town in nothern Peninsular Malaysia. It is of those towns
 with a small-city feel with big city values. Surrounded with majestic limestone hills clad with sparse
