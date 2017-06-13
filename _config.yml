@@ -102,11 +102,18 @@ show-author: true
 # do you want some animations?
 animation: true
 
+sass:
+    sass_dir: _sass
+    style: :compressed
+
 gems:
-  - jekyll-seo-tag
-  - jekyll-gist
-  - jekyll-feed
   - jemoji
+  - jekyll-mentions
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-paginate
 
 jekyll-mentions:
     base_url: https://github.com
