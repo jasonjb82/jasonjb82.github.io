@@ -26,7 +26,7 @@ NGO with my GIS skills to help lobby for the protection of forests and wildlife 
 increasingly becoming vulnerable due to infrastructure development and cash crop expansion.</p> 
 
 <p>I am open to pro-bono, volunteering, paid consultancy work or to collaborate on any mapping, data analysis or visualization project
-that would levarage on my skills and passion for working with data. Please free free to contact me for any enquiries.</P
+that would levarage on my skills and passion for working with data. Please free free to contact me for any enquiries.</p>
 
 <h2>Skills</h2>
 
