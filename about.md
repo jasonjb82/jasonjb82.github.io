@@ -8,18 +8,17 @@ layout: page
 exist in it. I strive to help to help individuals, organizations and communities by analysing data and
 producing visualizations that would help them gain better insights and make better decisions.</p>
 
-<p>I grew up in Ipoh, a former tin mining town in nothern Peninsular Malaysia. It is of those towns
-with a small-city feel with big city values. Surrounded with majestic limestone hills clad with sparse
-vegetation overlooking huge plains with patches of calm but deep mining pools and lakes, I had always loved
-the outdoors and nature.</p>
+<p>I grew up in Ipoh, a former tin mining town in nothern Peninsular Malaysia. It is one of those towns
+with a small-city feel with big city values. Constantly enchanted with majestic abrupt limestone hills clad
+with sparse vegetation, honeycombed with caves rising out of plains with patches of calm but deep waterbodies,
+I grew to love nature and the outdoors.</p>
 
-<p>I decided to pursue my studies in Remote Sensing, which is a very data rich field and thoroughly enjoyed
+<p>I decided to further my studies in Remote Sensing, which is a very data rich field and thoroughly enjoyed
 working with a wide range of datasets. This is where I got to combine my passion for the environment and also
 my love for computers and technology.</p>
 
-<p>After spending 5 years in Malaysia and building up my geospatial skills, I managed to secure a move
-to Adelaide, South Australia to continue to develop my skills and competencies working on a wide range of
-multi-disciplinary projects.</p>
+<p>After spending 5 years in Malaysia and building up my geospatial skills, I moved to Adelaide, South Australia
+to continue to develop my skills and competencies working on a wide range of multi-disciplinary projects.</p>
 
 <p>In mid-2013, I moved back to Malaysia was based at a research organization that helped my develop my
 non-spatial data analytical and visualization skills using R. I have since been very actively developing
