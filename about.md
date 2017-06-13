@@ -18,14 +18,14 @@ in the geospatial field with service providers, consultancies and NGO's.</p>
 
 In the last 4 years, I have increasingly used the R language for both spatial and non-spatial data analysis and visualization.
 Recently, I have started using R to produce visualizations using publicly available datasets in an attempt to promote
-the use of open source tools and open datasets, particulary in Malaysia where the availablity of open data is still very scarce.
+the use of open source tools and open datasets, particularly in Malaysia where the availablity of open data is still very scarce.
 
 <p>I am currently helping the organization I am part off to better manage, analyse and visualize data that
 will hopefully lead to improved sustainable practises in businesses. I also volunteer with a local conservation
 NGO with my GIS skills to help lobby for the protection of forests and wildlife habitats that are
 increasingly becoming vulnerable due to infrastructure development and cash crop expansion.</p> 
 
-<p>I am open to pro-bono, volunteering or paid consultancy work or to collaborate on any mapping, data analysis or visualization project
+<p>I am open to pro-bono, volunteering, paid consultancy work or to collaborate on any mapping, data analysis or visualization project
 that would levarage on my skills and passion for working with data. Please free free to contact me for any enquiries.</P
 
 <h2>Skills</h2>
