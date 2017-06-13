@@ -34,17 +34,17 @@ increasingly becoming vulnerable due to infrastructure development and cash crop
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>ESRI ArcGIS suite</li>
-	<li>QGIS</li>
-	<li>R (base, ggplot)</li>
-	<li>Qlik</li>
-	<li>Microsoft Power BI</li>
+	<li>ESRI ArcGIS suite - spatial analysis, mapping</li>
+	<li>QGIS - spatial analysis, mapping</li>
+	<li>R - data wrangling, analysis and visualization (ggplot)</li>
+	<li>Qlik - building dashboards</li>
+	<li>Microsoft Power BI - - building dashboards</li>
 	<li>Microsoft Office</li>
-	<li>IDRISI / TerrSet</li>
-	<li>AutoCAD</li>
-	<li>Global Mapper</li>
-	<li>PostgreSQL</li>
-	<li>Inkscape</li>
+	<li>IDRISI / TerrSet - land use change analysis</li>
+	<li>AutoCAD - drafting, digitizing</li>
+	<li>Global Mapper - data conversion, mapping</li>
+	<li>PostgreSQL - basic database management querying</li>
+	<li>Inkscape - editing graphics, producing basic infographics, visualizations</li>
 
 </ul>
 
