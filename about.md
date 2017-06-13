@@ -35,20 +35,18 @@ and cash crop expansion.</p>
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
+	<li>ESRI ArcGIS suite</li>
+	<li>QGIS</li>
+	<li>R (base, ggplot)</li>
+	<li>Qlik</li>
+	<li>Microsoft Power BI</li>
+	<li>Microsoft Office</li>
+	<li>IDRISI / TerrSet</li>
+	<li>AutoCAD</li>
+	<li>Global Mapper</li>
+	<li>PostgreSQL</li>
+	<li>Inkscape</li>
+
 </ul>
 
 <h2>Projects</h2>
