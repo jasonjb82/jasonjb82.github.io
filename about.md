@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>I love working with data, both <b>spatial</b> and non-spatial and being able to see the various nuances that
+<p>I love working with data, both spatial and non-spatial and being able to see the various nuances that
 exist in it. I strive to help individuals, organizations and communities by analysing data and
 producing visualizations that would help them gain better insights and make better decisions.</p>
 
@@ -34,17 +34,17 @@ increasingly becoming vulnerable due to infrastructure development and cash crop
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>ESRI ArcGIS suite - spatial data creation, editing and analysis, mapping and cartography</li>
-	<li>QGIS - spatial data creation, editing and analysis, mapping and cartography, basic remote sensing data analysis</li>
-	<li>R - data wrangling, data mining, web scraping, data analysis and producing visualization (ggplot)</li>
-	<li>Qlik - building dashboards</li>
-	<li>Microsoft Power BI - - building dashboards</li>
-	<li>Microsoft Office</li>
-	<li>IDRISI / TerrSet - land use change analysis</li>
-	<li>AutoCAD - drafting, digitizing</li>
-	<li>Global Mapper - data conversion, mapping</li>
-	<li>PostgreSQL - basic database management querying</li>
-	<li>Inkscape - editing graphics, producing basic infographics and visualizations</li>
+	<li><b>ESRI ArcGIS suite</b> - spatial data creation, editing and analysis, mapping and cartography</li>
+	<li><b>QGIS</b> - spatial data creation, editing and analysis, mapping and cartography, basic remote sensing data analysis</li>
+	<li><b>R</b> - data wrangling, data mining, web scraping, data analysis and producing visualization (ggplot)</li>
+	<li><b>Qlik</b> - building dashboards</li>
+	<li><b>Microsoft Power BI</b> - - building dashboards</li>
+	<li><b>Microsoft Office</b></li>
+	<li><b>IDRISI / TerrSet</b> - land use change analysis</li>
+	<li><b>AutoCAD</b> - drafting, digitizing</li>
+	<li><b>Global Mapper</b> - data conversion, mapping</li>
+	<li><b>PostgreSQL</b> - basic database management and querying</li>
+	<li><b>Inkscape</b> - editing graphics, producing basic infographics and visualizations</li>
 
 </ul>
 
