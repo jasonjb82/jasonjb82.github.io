@@ -6,7 +6,7 @@ layout: page
 
 <p>I love working with data, both spatial and non-spatial and being able to see the various nuances that
 exist in it. I strive to help to help individuals, organizations and communities by analysing data and
-producing visualizations that would help them gain better insights and better decisions.</p>
+producing visualizations that would help them gain better insights and make better decisions.</p>
 
 <p>I grew up in Ipoh, a small former tin mining town in nothern Peninsular Malaysia. It is of those towns
 with a small-city feel with big city values. Surrounded with majestic limestone hills clad with sparse
@@ -27,10 +27,9 @@ my skills in R by utilizing it as much as possible in various roles. I also work
 using R, mainly to develop visualizations using open and publicly available datasets.
 
 <p>I am currently helping the organization I am part off to better manage, analyse and visualize data that
-will hopefully lead to reducing deforestation and improving sustainable practises in businesses. I also
-volunteer with a local conservation NGO with my GIS and mapping skills to help lobby for the protection of
-forests and wildlife habitats that are increasingly becoming vulnerable due to infrastructure development
-and cash crop expansion.</p> 
+will hopefully lead to improved sustainable practises in businesses. I also volunteer with a local conservation
+NGO with my GIS and mapping skills to help lobby for the protection of forests and wildlife habitats that are
+increasingly becoming vulnerable due to infrastructure development and cash crop expansion.</p> 
 
 <h2>Skills</h2>
 
