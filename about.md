@@ -10,7 +10,7 @@ producing visualizations that would help them gain better insights and help them
 
 <p>I grew up in Ipoh, a small former tin mining town in nothern Peninsular Malaysia. It is of those towns
 with a small-city feel with big city values. Surrounded with majestic limestone hills clad with sparse
-vegetation overlooking huge plains with patches of calmbut deep mining pools and lakes, I had always loved
+vegetation overlooking huge plains with patches of calm but deep mining pools and lakes, I had always loved
 the outdoors and nature.</p>
 
 <p>I decided to pursue my studies in Remote Sensing, which is a very data rich field and thoroughly enjoyed
@@ -28,8 +28,9 @@ using R, mainly to develop visualizations using open and publicly available data
 
 <p>I am currently helping the organization I am part off to better manage, analyse and visualize data that
 will hopefully lead to reducing deforestation and improving sustainable practises in businesses. I also
-volunteer with a local conservation NGO with my GIS and mapping skills tohelp lobby for protection of
-forests and wildlife habitats that are increasingly becoming vulnerable due to development and cash crop expansion. 
+volunteer with a local conservation NGO with my GIS and mapping skills to help lobby for the protection of
+forests and wildlife habitats that are increasingly becoming vulnerable due to infrastructure development
+and cash crop expansion.</p> 
 
 <h2>Skills</h2>
 
