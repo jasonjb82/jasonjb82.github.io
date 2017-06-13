@@ -16,16 +16,16 @@ I grew to love nature and the outdoors.</p>
 <p>My background is in Remote Sensing and I have spent the last 14 years working in various technical and coordinating roles
 in the geospatial field with service providers, consultancies and NGO's.</p>
 
-In the last 4 years, I have increasingly used the R language for both spatial and non-spatial data analysis and visualization.
-Recently, I have started using R to produce visualizations using publicly available datasets in an attempt to promote
+In the last 4 years, I have extensively utilized the R language for both spatial and non-spatial data analysis and visualization.
+Recently, I have started using R to produce visualizations from publicly available datasets in an attempt to promote
 the use of open source tools and open datasets, particularly in Malaysia where the availablity of open data is still very scarce.
 
-<p>I am currently helping the organization I am part off to better manage, analyse and visualize data that
+<p>I am currently helping the organization I am part of to better manage, analyse and visualize data that
 will hopefully lead to improved sustainable practices in businesses. I also volunteer with a local conservation
 NGO with my GIS skills to help lobby for the protection of forests and wildlife habitats that are
 increasingly becoming vulnerable due to infrastructure development and cash crop expansion.</p> 
 
-<p>I am open to pro-bono, volunteering, paid consultancy work or to collaborate on any mapping, data analysis or visualization project
+<p>I am open to pro-bono, volunteering, paid consultancy work or collaborating on any mapping, data analysis or visualization project
 that would levarage on my skills and passion for working with data. Please free free to contact me for any enquiries.</p>
 
 <h2>Skills</h2>
