@@ -48,6 +48,17 @@ increasingly becoming vulnerable due to infrastructure development and cash crop
 
 </ul>
 
+<h2>Hobbies</h2>
+
+<ul class="skill-list">
+	<li>Playing with data</li>
+	<li>Movies</li>
+	<li>Hiking</li>
+	<li>Music</li>
+	<li>Reading</li>
+</ul>
+
+
 <h2>Projects</h2>
 
 <ul>
