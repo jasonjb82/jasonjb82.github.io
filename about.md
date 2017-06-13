@@ -53,8 +53,5 @@ increasingly becoming vulnerable due to infrastructure development and cash crop
 <ul>
 	<li><a href="http://jason-doug-climate.blogspot.com/">The Jason and Doug Blog</a></li>A blog I ran with Doug Beare to share insights and developments on open source software that can be used to analyze patterns and trends in in all types of data from the natural world</li>
 	
-	<li><a href="http://jason-doug-climate.blogspot.com/">The Jason and Doug Blog</a></li>A blog I ran with Doug Beare to share insights and developments on open source software that can be used to analyze patterns and trends in in all types of data from the natural world</li>
-	
-	<li><a href="http://jason-doug-climate.blogspot.com/">The Jason and Doug Blog</a></li>A blog I ran with Doug Beare to share insights and developments on open source software that can be used to analyze patterns and trends in in all types of data from the natural world</li>
 	
 </ul>
