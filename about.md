@@ -35,7 +35,7 @@ increasingly becoming vulnerable due to infrastructure development and cash crop
 
 <ul class="skill-list">
 	<li>ESRI ArcGIS suite - spatial data creation, editing and analysis, mapping and cartography</li>
-	<li>QGIS - spatial data creation, editing and analysis, mapping and cartography</li>
+	<li>QGIS - spatial data creation, editing and analysis, mapping and cartography, basic remote sensing data analysis</li>
 	<li>R - data wrangling, data mining, web scraping, data analysis and producing visualization (ggplot)</li>
 	<li>Qlik - building dashboards</li>
 	<li>Microsoft Power BI - - building dashboards</li>
@@ -56,6 +56,7 @@ increasingly becoming vulnerable due to infrastructure development and cash crop
 	<li>Hiking</li>
 	<li>Music</li>
 	<li>Reading</li>
+	<li>Football</li>
 </ul>
 
 
