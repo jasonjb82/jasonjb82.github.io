@@ -13,13 +13,9 @@ with a small-city feel with big city values. Surrounded with majestic limestone 
 vegetation overlooking huge plains with patches of calmbut deep mining pools and lakes, I had always loved
 the outdoors and nature.</p>
 
-<p>I decided to pursue my studies in Remote Sensing in University of Technology Malaysia, which is a very
-data rich field and thoroughly enjoyed working with a wide range of spectrally and spatially diverse datasets.
-This is where I got to combine my passion for the environment and also my love for computers and technology.</p>
-
-<p>I started off my career workin on airborne lidar surveys, which took me places but then decided that
-developing my skills in GIS or geospatial sciences was the way to go as there was bigger market for that
-in Malaysia.</p>
+<p>I decided to pursue my studies in Remote Sensing, which is a very data rich field and thoroughly enjoyed
+working with a wide range of datasets. This is where I got to combine my passion for the environment and also
+my love for computers and technology.</p>
 
 <p>After spending 5 years in Malaysia and building up my geospatial skills, I managed to secure a move
 to Adelaide,South Australia to continue to develop my skills and competencies on a wide range of multi-disciplinary
@@ -30,7 +26,7 @@ non-spatial data analytical and visualization skills using R. I have since been 
 my skills in R by utilizing it as much as possible in various roles. I also work on various personal projects
 using R, mainly to develop visualizations using open and publicly available datasets.
 
-I am currently helping the organization I am part off to better manage, analyse and visualize data that
+<p>I am currently helping the organization I am part off to better manage, analyse and visualize data that
 will hopefully lead to reducing deforestation and improving sustainable practises in businesses. I also
 volunteer with a local conservation NGO with my GIS and mapping skills tohelp lobby for protection of
 forests and wildlife habitats that are increasingly becoming vulnerable due to development and cash crop expansion. 
