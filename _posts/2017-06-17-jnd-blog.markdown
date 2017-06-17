@@ -1,7 +1,7 @@
 ---
 title: "The Jason and Doug Blog"
 layout: post
-date: 2016-01-23 22:10
+date: 2017-06-17
 tag: jekyll
 image: /assets/images/custom/jnd_blog.png
 headerImage: true
