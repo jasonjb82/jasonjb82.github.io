@@ -14,7 +14,7 @@ picture: assets/images/profile.jpg
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://github.com/jasonjb82/jasonjb82.github.io/blob/master/assets/Resume.pdf
+resume-url: https://github.com/jasonjb82/jasonjb82.github.io/raw/master/assets/Resume.pdf
 
 url: http://jasonjb82.github.io
 # your url: http://USERNAME.github.io
