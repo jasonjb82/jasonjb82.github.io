@@ -12,9 +12,9 @@ category: project
 author: johndoe
 externalLink: false
 ---
-
----
 Test Test Test
+---
+
 ---
 
 [Check it out](http://jason-doug-climate.blogspot.com/) here.
