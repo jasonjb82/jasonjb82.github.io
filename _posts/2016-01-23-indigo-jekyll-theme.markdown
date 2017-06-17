@@ -1,5 +1,5 @@
 ---
-title: ":ramen: Indigo, minimalist jekyll theme"
+title: ":ramen: The Jason and Doug Blog"
 layout: post
 date: 2016-01-23 22:10
 tag: jekyll
@@ -7,7 +7,7 @@ image: https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
-description: "This is a simple and minimalist template for Jekyll for those who likes to eat noodles."
+description: "This is my blog."
 category: project
 author: johndoe
 externalLink: false
@@ -15,21 +15,9 @@ externalLink: false
 
 ![Screenshot](https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png)
 
-Example of project - Indigo Minimalist Jekyll Template - [Demo](http://sergiokopplin.github.io/indigo/). This is a simple and minimalist template for Jekyll for those who likes to eat noodles.
-
+---
+This blog is run by Jason Jon Benedict and Doug Beare to share insights and developments on open source software that can be used to analyze patterns and trends in in all types of data from the natural world. Jason currently works as a Senior GIS Officer based in Malaysia. Doug lives in the United Kingdom and is currently Director of Globefish Consultancy Services which provides scientific advice to organisations that currently include the STECF [Scientific, Technical and Economic Committee for Fisheries, https://stecf.jrc.europe.eu/] and ICCAT, https://www.iccat.int/en/
 ---
 
-What has inside?
+[Check it out](http://jason-doug-climate.blogspot.com/) here.
 
-- Gulp
-- BrowserSync
-- Stylus
-- SVG
-- Travis
-- No JS
-- [98/100](https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fsergiokopplin.github.io%2Findigo%2F)
-
----
-
-[Check it out](http://sergiokopplin.github.io/indigo/) here.
-If you need some help, just [tell me](http://github.com/sergiokopplin/indigo/issues).
