@@ -13,7 +13,7 @@ a former tin mining town in northern Peninsular Malaysia. Constantly enchanted w
 hills clad with sparse vegetation, honeycombed with caves rising out of plains with patches of calm but deep waterbodies,
 I grew to love nature and the outdoors.</p>
 
-<p>My background is in Remote Sensing and I have spent the last 14 years working in various technical and coordinating roles
+<p>My background is in Remote Sensing and I have spent the last 13 years working in various technical and coordinating roles
 in the geospatial field with service providers, consultancies and NGO's.</p>
 
 In the last 4 years, I have extensively utilized the R language for both spatial and non-spatial data analysis and visualization.
