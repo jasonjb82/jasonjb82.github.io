@@ -5,8 +5,7 @@ layout: page
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
 <p>I love working with data, both spatial and non-spatial and being able to see the various nuances that
-exist in it. I strive to help individuals, organizations and communities by analysing data and
-producing visualizations that would help them gain better insights and make better decisions.</p>
+exist in it.</p>
 
 <p>I grew up in <a href="https://en.wikipedia.org/wiki/Ipoh/">Ipoh</a>,
 a former tin mining town in northern Peninsular Malaysia. Constantly enchanted with majestic abrupt limestone
