@@ -16,17 +16,11 @@ I grew to love nature and the outdoors.</p>
 <p>My background is in Remote Sensing and I have spent the last 13 years working in various technical and coordinating roles
 in the geospatial field with service providers, consultancies and NGO's.</p>
 
-In the last 4 years, I have extensively utilized the R language for both spatial and non-spatial data analysis and visualization.
-Recently, I have started using R to produce visualizations from publicly available datasets in an attempt to promote
-the use of open source tools and open datasets, particularly in Malaysia where the availablity of open data is still very scarce.
+<p>I am particularly keen on using geospatial technologies and data science to map and better understand environmental and social issues that exist in commodity supply chains such as deforestation and human rights abuses.</p>
 
-<p>I am currently helping the organization I am part of to better manage, analyse and visualize data that
-will hopefully lead to improved sustainable practices in businesses. I also volunteer with a local conservation
-NGO with my GIS skills to help lobby for the protection of forests and wildlife habitats that are
-increasingly becoming vulnerable due to infrastructure development and cash crop expansion.</p> 
+<p>Most recently, I have moved into the space of data analytics and visualization to couple with my proficiency in cartography and mapping with the aim of developing more effective visualizations like dashboards and data infographics.</p>
 
-<p>I am open to pro-bono, volunteering, paid consultancy work or collaborating on any mapping, data analysis or visualization project
-that would levarage on my skills and passion for working with data. Please free free to contact me for any enquiries.</p>
+<p>My hope is that this can provide data guided intelligence and actionable insights to help communities, the environment and businesses co-exist and thrive in a more sustainable world.</p>
 
 <h2>Skills</h2>
 
@@ -34,6 +28,7 @@ that would levarage on my skills and passion for working with data. Please free 
 	<li><b>ESRI ArcGIS suite</b> - spatial data creation, editing and analysis, mapping and cartography</li>
 	<li><b>QGIS</b> - spatial data creation, editing and analysis, mapping and cartography, basic remote sensing data analysis</li>
 	<li><b>R</b> - data wrangling, data mining, web scraping, data analysis and producing visualization (ggplot)</li>
+	<li><b>Google Earth Engine> - spatial data processing and analysis</li>
 	<li><b>Qlik</b> - building dashboards</li>
 	<li><b>Microsoft Power BI</b> - - building dashboards</li>
 	<li><b>Microsoft Office</b></li>
