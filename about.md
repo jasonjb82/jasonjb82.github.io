@@ -4,16 +4,12 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>I love working with data, both spatial and non-spatial and being able to see the various nuances that
-exist in it.</p>
+<p>I am a geospatial professional with an interest in conservation, sustainability, climate change, food security and data analytics and visualization. Over the last 13 years, I have utilized both commercial and open source geospatial technologies to support a wide range of transport, water, environmental, planning, sustainability and climate change related projects and programmes for consultancies and NGO's.</p>
 
 <p>I grew up in <a href="https://en.wikipedia.org/wiki/Ipoh/">Ipoh</a>,
 a former tin mining town in northern Peninsular Malaysia. Constantly enchanted with majestic abrupt limestone
 hills clad with sparse vegetation, honeycombed with caves rising out of plains with patches of calm but deep waterbodies,
 I grew to love nature and the outdoors.</p>
-
-<p>My background is in Remote Sensing and I have spent the last 13 years working in various technical and coordinating roles
-in the geospatial field with service providers, consultancies and NGO's.</p>
 
 <p>I am particularly keen on using geospatial technologies and data science to map and better understand environmental and social issues that exist in commodity supply chains such as deforestation and human rights abuses.</p>
 
