@@ -23,7 +23,7 @@ I grew to love nature and the outdoors.</p>
 	<li><b>ESRI ArcGIS suite</b> - spatial data creation, editing and analysis, mapping and cartography</li>
 	<li><b>QGIS</b> - spatial data creation, editing and analysis, mapping and cartography, basic remote sensing data analysis</li>
 	<li><b>R</b> - data wrangling, data mining, web scraping, data analysis and producing visualization (ggplot)</li>
-	<li><b>Google Earth Engine> - spatial data processing and analysis</li>
+	<li><b>Google Earth Engine</b> - spatial data processing and analysis</li>
 	<li><b>Qlik</b> - building dashboards</li>
 	<li><b>Microsoft Power BI</b> - - building dashboards</li>
 	<li><b>Microsoft Office</b></li>
