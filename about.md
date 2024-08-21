@@ -11,7 +11,7 @@ a former tin mining town in northern Peninsular Malaysia. Constantly enchanted w
 hills clad with sparse vegetation, honeycombed with caves rising out of plains with patches of calm but deep waterbodies,
 I grew to love nature and the outdoors.</p>
 
-<p>I am particularly keen on using geospatial technologies and data science to better understand the complex environmental and social issues that exist the world today.</p>
+<p>I am particularly keen on using geospatial technologies and data science to better understand the complex environmental and social issues that exist in the world today.</p>
 
 <p>Most recently, I have moved into the space of data analytics and visualization to couple with my proficiency in cartography and mapping with the aim of developing more effective visualizations like dashboards and data infographics.</p>
 
@@ -35,18 +35,6 @@ I grew to love nature and the outdoors.</p>
 	<li><b>Inkscape</b> - editing graphics, producing basic infographics and visualizations</li>
 
 </ul>
-
-<h2>Hobbies</h2>
-
-<ul class="skill-list">
-	<li>Playing with data</li>
-	<li>Movies</li>
-	<li>Hiking</li>
-	<li>Music</li>
-	<li>Reading</li>
-	<li>Football</li>
-</ul>
-
 
 <h2>Projects</h2>
 
