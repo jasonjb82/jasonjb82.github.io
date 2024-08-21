@@ -25,7 +25,7 @@ I grew to love nature and the outdoors.</p>
 	<li><b>R</b> - data wrangling, data mining, web scraping, data analysis and producing visualization (ggplot)</li>
 	<li><b>Python</b> - data wrangling, data mining, web scraping, data analysis</li>
 	<li><b>Google Earth Engine</b> - spatial data processing and analysis</li>
-	<li><b>Microsoft Office</b></li>
+	<li><b>Microsoft Office</b> - word processing</li>
 	<li><b>IDRISI / TerrSet</b> - land use change analysis</li>
 	<li><b>Global Mapper</b> - data conversion, mapping</li>
 	<li><b>PostgreSQL</b> - basic database management and querying</li>
